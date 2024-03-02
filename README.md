@@ -1,13 +1,13 @@
 
 👋 Hello I’m @fefe33...
 
-👀   I am a cyber security student who is interested in developing my programming skills in python and javascript.
+👀   I am a cyber security student who is interested in developing my programming skills in web development.
 
-🌱   I am mostly interested in development and security in OSI layers 7 - 3, and I am pretty new to programming (give or take a year+), but I try to spend alot of my free time working on various projects.
+🌱   I am currently focussing on infrastructure and applications security. I am pretty new to programming (give or take a year+), but I try to spend alot of my free time working on various projects.
 
-💞️   my first big project is my homepage application. details (will be) contained in the README in that file. 
+💞️   I have alot of interests. but not necessarily the time (or skillset) to pursue all of them.
 
-📫 How to reach me --> will add at later date 
+📫 How to reach me --> will add at later date.
     
 
 <!---
