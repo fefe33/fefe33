@@ -1,7 +1,7 @@
 
 👋 Hello I’m @fefe33...
 
-👀   I am a cyber security student who is interested in developing my programming skills in web development.
+👀   I am a cyber security student who is interested in developing my programming skills.
 
 🌱   I am currently focussing on infrastructure and applications security. I am pretty new to programming (give or take a year+), but I try to spend alot of my free time working on various projects.
 
