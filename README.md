@@ -7,7 +7,7 @@
 
 💞️   I have alot of interests. but not necessarily the time (or skillset) to pursue all of them. these include but are not limited to (basic) Web Development, radio technology and communications, electronics/EE, and mathematics. 
 
-I find computer science fascinating, and i think it is a beautiful feat of engineering the way so many different componenets and little circuits can work together to perform such complex tasks and computations. I want to try and work to understand how this technology works on as low a level as I can before its my time to go. I also hope to have the opportunity to work on some awesome projects before that time comes. 
+I find computer science fascinating, and i think it is a beautiful feat of engineering the way so many different componenets and little circuits can work together to perform such complex tasks and computations. I want to try and work to understand how this technology works on as low a level as I can before its my time to go. I also hope to have the opportunity to work on some awesome projects.
 
 📫 How to reach me --> will specify at a later date.
     
