@@ -3,9 +3,9 @@
 
 👀   I am a cyber security student who is interested in developing my programming skills.
 
-🌱   I am currently focussing on infrastructure and applications security. I am pretty new to programming (give or take a year+), but I try to spend alot of my free time working on various projects.
+🌱   I am currently focussing on applications security. I am pretty new to programming (give or take a year+), but I try to spend alot of my free time working on various projects.
 
-💞️   I have alot of interests. but not necessarily the time (or skillset) to pursue all of them. these include but are not limited to (basic) Web Development, electronics/EE, and Software Defined Radio. 
+💞️   i like to build web apps (and break them), play with code, and learn about how technology works. sometimes i play with Software defined radio as a hobby, but my EE knowledge is very limited.
 
 I find computer science fascinating, and i think it is a beautiful feat of engineering the way so many different componenets and little circuits can work together to perform such complex tasks and computations. I want to try and work to understand how this technology works on as low a level as I can before its my time to go. I also hope to have the opportunity to work on some awesome projects.
 
