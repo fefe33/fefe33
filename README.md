@@ -7,7 +7,7 @@
 
 💞️   i like to build web apps (and break them), play with code, and learn about how technology works. sometimes i play with Software defined radio as a hobby, but my EE knowledge is very limited.
 
-I find computer science fascinating, and i think it is a beautiful feat of engineering the way so many different componenets and little circuits can work together to perform such complex tasks and computations. I want to try and work to understand how this technology works on as low a level as I can before its my time to go. I also hope to have the opportunity to work on some awesome projects.
+I find computer science fascinating, and i think it is a beautiful feat of engineering the way so many different componenets and little circuits can work together to perform such complex tasks. i also find that there are few things as satisfying as when your script finally works. i hope one day to get a real job in tech.
 
 📫 How to reach me --> will specify at a later date.
     
