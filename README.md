@@ -3,7 +3,7 @@
 
 👀   I am a cyber security student who is interested in developing my programming skills.
 
-🌱   I am currently focussing on applications security. I am pretty new to programming (give or take 2 yrs), but I try to spend alot of my free time working on various projects.
+🌱   I am currently learning C++, but i know a decent amount of python, PHP, Javascript, and some C. 
 
 💞️   i like to build web apps (and break them), play with code, and learn about how technology works. sometimes i play with software defined radio (Rx only), but my math knowledge is very limited.
 
